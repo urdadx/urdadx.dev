@@ -20,7 +20,7 @@ const projects: Project[] = [
   {
     title: "Breeze / A screenshots editor for the web 🔥",
     techs: ["ReactJS (Vite)"],
-    link: "http://github.com/urdadx/breeze",
+    link: "https://breeze-editor.vercel.app/",
   },
   {
     title: "Libre-gradients / A tool for customizing gradients ✨",
