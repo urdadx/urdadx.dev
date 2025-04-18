@@ -1,4 +1,4 @@
 # My Website Built With Astro ⚡️
 
-### Check it out here 👉 [urdadx.vercel.app](https://urdadx.tech)
+### Check it out here 👉 [urdadx.tech](https://urdadx.tech)
 
