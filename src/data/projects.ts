@@ -25,7 +25,7 @@ const projects: Project[] = [
   {
     title: "Libre-gradients / A tool for customizing gradients ✨",
     techs: ["NextJS", "TypeScript"],
-    link: "https://libre-gradients.vercel.app",
+    link: "https://github.com/urdadx/libre-gradients",
   },
 ];
 
