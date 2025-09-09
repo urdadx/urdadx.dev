@@ -32,4 +32,23 @@ const { title } = Astro.props;
       }
     </style>
   </body>
+  <!-- Padyna Chat Bubble Widget -->
+<script>
+  (function() {
+    const script = document.createElement('script');
+    script.src = 'https://padyna.com/embed.js';
+    script.async = true;
+    script.onload = function() {
+      PadynaWidget.init({
+        embedToken: 'embed_mzt9cp3ohf9e2wwfgptl5o',
+        mode: 'bubble',
+        position: 'bottom-right',
+        bubbleSize: 'medium',
+        showBadge: true,
+        autoOpen: false
+      });
+    };
+    document.head.appendChild(script);
+  })();
+</script>
 </html>
