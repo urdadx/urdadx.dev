@@ -7,6 +7,11 @@ export type Project = {
 
 const projects: Project[] = [
   {
+    title: "Padyna - An AI-powered customer support platform for businesses",
+    techs: ["Tanstack start", "TypeScript"],
+    link: "https://padyna.com",
+  },
+  {
     title: "Librelinks / An opensource link in bio tool 🚀",
     link: "https://librelinks.vercel.app",
     techs: ["NextJS", "MongoDB", "Prisma"],
@@ -22,11 +27,7 @@ const projects: Project[] = [
     techs: ["ReactJS (Vite)"],
     link: "https://breeze-editor.vercel.app/",
   },
-  {
-    title: "Libre-gradients / A tool for customizing gradients ✨",
-    techs: ["NextJS", "TypeScript"],
-    link: "https://github.com/urdadx/libre-gradients",
-  },
+  
 ];
 
 export default projects;
